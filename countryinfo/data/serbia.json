@@ -8,6 +8,7 @@
   "currencies":["RSD"],
   "demonym":"Serbian",
   "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
+  "geoJSON":{},
   "ISO":{"alpha2":"RS","alpha3":"SRB"},
   "languages":["rs"],
   "latlng":[44.1305021,16.4284181],
