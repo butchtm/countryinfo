@@ -1,0 +1,10 @@
+{"name":"Timor Leste",
+  "altSpellings":["TL","East Timor","Democratic Republic of Timor Leste","República Democrática de Timor-Leste","Repúblika Demokrátika de Timór-Leste"],
+  "callingCodes":["670"],
+  "capital":"Dili",
+  "capital_latlng":[-8.55, 125.56],
+  "currencies":["USD"],
+  "demonym":"Timorese",
+  "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/125px-Flag_of_East_Timor.svg.png",
+  "ISO":{"alpha2":"TL","alpha3":"TLS"},
+  "wiki":"http://en.wikipedia.org/wiki/east_timor"}
